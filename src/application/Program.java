@@ -35,6 +35,7 @@ public class Program {
 					System.out.println(i + ":" + vect[i]);
 				}
 			}
+			System.out.println("Foi submetido no github");
 			sc.close();
 	}
 }
